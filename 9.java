@@ -8,19 +8,19 @@ INPUT : Intelligence plus character is education.
 OUTPUT:  
 Intelligence plus character is education.
 Word  		    Vowels  	Consonants 
-Intelligence  	5  		    7 
-Plus   	       	1  	    	3 
-Character     	3  		    6 
-Is   	        	1     		1 
-Education  	    5  	    	4
+Intelligence  	      5  	   7 
+Plus   	              1  	   3 
+Character     	      3  	   6 
+Is   	              1     	   1 
+Education  	      5  	   4
 Example 2  
 INPUT : God is great.  
 OUTPUT:  
 God is great
-Word  		Vowels  	Consonants 
-God   	   	1  		      2 
-Is   		    1  	      	1 
-Great   		2  	      	3
+Word  		Vowels      Consonants 
+God   	   	  1  	       2 
+Is   		  1  	       1 
+Great   	  2  	       3
 */
 /*
 Algorithm:
