@@ -1,4 +1,5 @@
-//@Author:Dungeon_Master
+//@Author:Biparnak Roy
+//java program to tell the time by the readings from the watch
 import java.io.*;
 class XI_1
 {
