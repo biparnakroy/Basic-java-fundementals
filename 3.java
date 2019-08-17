@@ -1,4 +1,5 @@
-//@Author:Dungeon_Master
+//@Author:Biparnak roy
+// DECIMAL TO HEXADECIAML/BINARY/OCTAL CONVERSION
 import java.io.*;
 class XI_3
 {
@@ -16,7 +17,7 @@ class XI_3
         copy=n;
         switch(x)
         {
-            case 1:
+            case 1://HEX CONVERSION
             char ch[]= {'A','B','C','D','E','F','G'};
             while(copy!=0)
             {
@@ -29,7 +30,7 @@ class XI_3
             }
             p.println(s);
             break;
-            case 2:
+            case 2: //OCTAL CONVERSION
             while(copy!=0)
             {
                 rmd=copy%8;
@@ -38,7 +39,7 @@ class XI_3
             }
             p.println(s);
             break;
-            case 3:
+            case 3://BINARY CONVERSION
             while(copy!=0)
             {
                 rmd=copy%2;
