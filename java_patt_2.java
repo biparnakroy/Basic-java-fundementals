@@ -9,7 +9,7 @@
 */
 //code:
 import java.io.*;
-class java_patt_1
+class java_patt_2
 {
   public static void main(String args[])throws IOException
     {
