@@ -10,7 +10,7 @@ Step 4.	Iterate through the characters of the expression
 Step 5.	If input element is operand, add to output, if open parenthesis, push in stack, if closing parenthesis then all the operands upto the opening parenthesis is added to output. A snippet:
 a.	 while(arr[top] != '(')
 b.	pofx[k++]=ob.pop();
-c.	elem=ob.pop(); /* Remove ( */
+c.	elem=ob.pop(); /* Remove (
 d.	 }
 e.	 else if(ch=='^'||ch=='*'||ch=='/'||ch=='%'||ch=='+'||ch=='-')
 f.	    {       
