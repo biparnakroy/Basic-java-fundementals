@@ -32,7 +32,7 @@ For 2
 4  	3 	2 	1
 */
 /* Algorithm:
-Step 1: Start
+Step 1: Start 
 Step 2: Accept number of rows and columns of array and create an array
 Step 3: Accept values of array from the user and display the array
 Step 4: Present user with choice to rotate array by 90 degrees or 180 degrees
